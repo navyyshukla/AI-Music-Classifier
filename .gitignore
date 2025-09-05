@@ -1,0 +1,10 @@
+# Ignore the Python virtual environment
+.venv/
+
+# Ignore the large datasets
+Data/
+spectrograms_augmented/
+
+# Ignore Python's cache files
+__pycache__/
+*.pyc
